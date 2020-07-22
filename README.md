@@ -10,13 +10,13 @@
 
 ### Who am I? 🐍
 
-😄 My name is Antoni Carol Mateo and I'm a FullStack Developer. I love computers, those geenies that can make your wished came true if you talk to them in his language and with respect.
+😄 My name is Antoni Carol Mateo and I'm a FullStack Developer. I love computers, those geenies that can make your wishes came true if you talk to them in his language and with respect.
 <hr>
 
 
 🌱 I define myself as a Stubborn and Optimistic creator, I cant leave things without being done, I always work hard to achieve my goals, and in a really creative way, seeking problems with a positive point of view.
 
-⚡ On the other hand I'm an easy-going and shameless person, I love Rap Music and I love freestyling, so I've learned to win my fears and show myself to the public. I also love Extreme Sports, I ride scooter since I was 10 years old. I've crashed and hurt myself uncountable times, but that teached me to always get up and try again harder!
+⚡ On the other hand, I'm an easy-going and shameless person, I love Rap Music and I love freestyling, so I've learned to win my fears and show myself to the public. I also love Extreme Sports, I ride scooter since I was 10 years old. I've crashed and hurt myself uncountable times, but that teached me to always get up and try again harder!
 
 <hr>
 
