@@ -10,7 +10,7 @@
 
 ### Who am I? 🐍
 
-😄 My name is Antoni Carol Mateo and I'm a FullStack Developer. I love computers, those geenies that can make your wishes came true if you talk to them in his language and with respect.
+😄 My name is Antoni Carol Mateo and I'm studying to be a FullStack Developer. I love computers, those geenies that can make your wishes came true if you talk to them in his language and with respect.
 <hr>
 
 
