@@ -1,4 +1,4 @@
-# Antoni Carol Mateo ---- FullStack Developer
+# Antoni Carol Mateo ---- On the road to a FullStack Developer
 <hr>
 
 🌊 Contact with me
