@@ -23,7 +23,7 @@
 📫 I live in Igualada, Barcelona. I have a really good english due to the hours I've spent playing videogames and programming.
 <hr>
 
-### What's my work? 🔭
+### What I Do? 🔭
 
 👯 Currently I'm studing a Degree in Degree in Digital Interaction and Computing Techniques, for 2 years. Here, I've learned the basics of Programming, User-Expirience, Software Engineering and Other aspects. But I've had been working on my own in order to grow my skills and knowledge.    
 <!--
