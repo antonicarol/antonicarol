@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+
 # Antoni Carol Mateo ---- On the road to a FullStack Developer
 <hr>
 
@@ -25,7 +28,12 @@
 
 ### What I Do? 🔭
 
-👯 Currently I'm studing a Degree in Degree in Digital Interaction and Computing Techniques, for 2 years. Here, I've learned the basics of Programming, User-Expirience, Software Engineering and Other aspects. But I've had been working on my own in order to grow my skills and knowledge.    
+👯 Currently I'm studing a Degree in Degree in Digital Interaction and Computing Techniques, for 2 years. Here, I've learned the basics of Programming, User-Expirience, Software Engineering and Other aspects. But I've had been working on my own in order to grow my skills and knowledge.
+
+If I have to talk about tools, programming languages, these would be the ones I used and I'm familiar with:
+<div class="d-flex flex-row border">
+<i class="devicon-bootstrap-plain-wordmark colored"></i>
+</div>
 <!--
 **antonicarol/antonicarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
