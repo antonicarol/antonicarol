@@ -34,6 +34,23 @@ If I have to talk about tools, programming languages, these would be the ones I 
 <div class="d-flex flex-row border">
 <i class="devicon-bootstrap-plain-wordmark colored"></i>
 </div>
+
+
+## SOME LINKS OF THE WEBPAGES I DEVELOPED THIS 2020 SUMMER
+
+React and firebase
+---
+- Facebook Clone :arrow_right: https://facebook-clone-f5c41.web.app/
+- Instagram clone :arrow_right: https://instagram-clone-ca422.web.app/
+- Airbnb Clone :arrow_right:  https://airbnb-clone-cf56a.web.app/
+- Amazon Clone :arrow_right: https://amazo-clone-54c68.web.app/
+- Slack Clone :arrow_right: https://slack-clone-3ac34.web.app/
+
+MERN -  MONGODB, EXPRESS, REACT And NODE.JS
+---
+- Whatsapp Clone :arrow_right:  https://whatsapp-clone-602bb.web.app/
+- TikTok CLone :arrow_right: https://tik-tok-clone-67c6a.web.app/
+
 <!--
 **antonicarol/antonicarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
