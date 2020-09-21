@@ -2,6 +2,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 
 # Antoni Carol Mateo ---- On the road to a FullStack Developer
+
+More detailed info in my website ----> https://antonicaroldev.web.app/
 <hr>
 
 🌊 Contact with me
