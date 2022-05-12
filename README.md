@@ -15,7 +15,7 @@ More detailed info in my website ----> https://antonicaroldev.web.app/
 
 ### Who am I? 🐍
 
-😄 My name is Antoni Carol Mateo and I'm studying to be a FullStack Developer. I love computers, those geenies that can make your wishes came true if you talk to them in his language and with respect.
+😄 My name is Antoni Carol Mateo and I'm a FullStack developer, working up to became a Blockchain developer. I love computers, those geenies that can make your wishes came true if you talk to them in his language and with respect.
 <hr>
 
 
@@ -30,7 +30,7 @@ More detailed info in my website ----> https://antonicaroldev.web.app/
 
 ### What I Do? 🔭
 
-👯 Currently I'm studing a Degree in Degree in Digital Interaction and Computing Techniques, for 2 years. Here, I've learned the basics of Programming, User-Expirience, Software Engineering and Other aspects. But I've had been working on my own in order to grow my skills and knowledge.
+👯 Currently I'm working as a Freelancer, developing the projects Clients want to bring alive. I'm specialized in FullStack, working with tools like React and Next.js for the Frontend, and Node.js for the Backend. I'm also working on decentraliced applications, building and deploying Smart Contracts using Solidity, through EVM compatible blockchains such as Ethereum, Polygon, Fantom and the Binance Smart Chain
 
 If I have to talk about tools, programming languages, these would be the ones I used and I'm familiar with:
 <div class="d-flex flex-row border">
