@@ -7,8 +7,7 @@ More detailed info in my website ----> https://antonicaroldev.web.app/
 <hr>
 
 🌊 Contact with me
-- tonicarolmateo@gmail.com
-- acm57@udl.cat
+- antonicarolgit@gmail.com
 - 620365672
 
 <hr>
