@@ -39,6 +39,11 @@ If I have to talk about tools, programming languages, these would be the ones I 
 
 ## SOME LINKS OF THE WEBPAGES I DEVELOPED THIS 2020 SUMMER
 
+Marketplaces done via a Template created by me!
+---
+- D-Olympus Marketplace :arrow_right: https://d-olympus.store/
+- D-Animals Marketplace :arrow_right: https://d-animals.web.app/
+
 React and firebase
 ---
 - Facebook Clone :arrow_right: https://facebook-clone-f5c41.web.app/
